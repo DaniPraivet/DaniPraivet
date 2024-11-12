@@ -5,14 +5,10 @@
       margin-right: auto;
     ">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=DaniPraivet&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=blue_navy" />
-</a>
-<br>
-      <img height="250" alignt="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPraivet&theme=vue-dark&hide_border=true&theme=blue_navy" />
+      <img width="450" alignt="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniPraivet&theme=vue-dark&hide_border=true&theme=blue_navy" />
       <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniPraivet&layout=pie&hide_border=true&langs_count=8&theme=blue_navy" />
+      <img width="250" align="center" src="https://github-readme-stats.vercel.app/api?username=DaniPraivet&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=blue_navy" />
+      <img width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniPraivet&layout=pie&hide_border=true&langs_count=8&theme=blue_navy" />
 </a>
-      <br>
-      
+<br>    
 </div>
